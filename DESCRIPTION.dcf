@@ -1,0 +1,9 @@
+Package: WordCloud
+Type: Package
+Title: MLK Word Cloud
+Version: 0.1.0
+Author: Stephy Oge <stephyoge at mail.usf.edu>
+Description: The word cloud creates a wordcloud of a 1966 MLK Jr. speech.
+License: CCO
+Encoding: UTF-8
+LazyData: true
